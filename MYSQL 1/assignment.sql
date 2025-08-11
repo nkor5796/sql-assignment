@@ -1,6 +1,6 @@
 -- Assignment: Introduction to Databases
--- Student Name: [Your Full Name]
--- Date: [Today's Date]
+-- Student Name: NKOR MARTINE
+-- Date: 10/08/2025
 
 -- ===============================
 -- Question 1:
@@ -28,4 +28,5 @@ SHOW DATABASES;
 DROP DATABASE demo;
 
 -- Show all databases AFTER deletion
+
 SHOW DATABASES;
